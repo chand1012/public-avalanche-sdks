@@ -1,5 +1,5 @@
 ---
-"@core/teleporter-demo": patch
+'@core/teleporter-demo': patch
 ---
 
 update bridge contract addresses
